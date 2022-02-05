@@ -1,31 +1,73 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9191c318-07e5-4fb3-aecd-f66185068da8" name="Default Changelist" comment="" />
-    <ignored path="$PROJECT_DIR$/out/" />
-    <ignored path="$PROJECT_DIR$/target/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="9191c318-07e5-4fb3-aecd-f66185068da8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../../../.idea/JavaLILChallenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_01/begin/.idea/begin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/src/main/main22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/src/test/test21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_01/end/EvenOrOdd/src/main/main12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_01/end/EvenOrOdd/src/test/test8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/main9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/test20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../end/PasswordComplexity/src/main/main8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../end/PasswordComplexity/src/test/test17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_03/begin/begin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_03/end/DoubleOrNothing/src/main/main20.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_03/end/DoubleOrNothing/src/test/test13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_04/begin/WaterBill/src/main/main3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_04/begin/WaterBill/src/test/test18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_04/end/WaterBill/src/main/main2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_04/end/WaterBill/src/test/test7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_05/begin/ModelAPerson/src/main/main.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../01_05/begin/ModelAPerson/src/test/test15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_01/begin/DaysFromNow/src/main/main1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_01/begin/DaysFromNow/src/test/test9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_02/begin/StudentVolunteers/src/main/main11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_02/begin/StudentVolunteers/src/test/test22.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_02/end/StudentVolunteers/src/main/main4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_02/end/StudentVolunteers/src/test/test6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_03/begin/LetterPoints/src/main/main17.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_03/begin/LetterPoints/src/test/test5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_03/end/LetterPoints/src/main/main5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_03/end/LetterPoints/src/test/test19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_04/begin/EndOfYearSale/src/main/main21.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_04/begin/EndOfYearSale/src/test/test1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_05/begin/InvestingChange/src/main/main18.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_05/begin/InvestingChange/src/test/test2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_05/end/InvestingChange/src/main/main23.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../02_05/end/InvestingChange/src/test/test4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_01/begin/ElevatorChallenge/src/main/main16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_01/begin/ElevatorChallenge/src/test/test10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_01/end/ElevatorChallenge/src/main/main6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_01/end/ElevatorChallenge/src/test/test12.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_02/begin/DetermineWinner/src/main/main7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_02/begin/DetermineWinner/src/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_02/end/DetermineWinner/src/main/main15.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_02/end/DetermineWinner/src/test/test11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_03/begin/JokeGenerator/src/main/main13.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_03/begin/JokeGenerator/src/test/test16.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_04/begin/RedactSecretMessage/src/main/main14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_04/begin/RedactSecretMessage/src/test/test14.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_04/end/RedactSecretMessage/src/main/main10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_04/end/RedactSecretMessage/src/test/test3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_05/end/ParseCSV/src/main/main19.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../03_05/end/ParseCSV/src/test/test23.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/src/main/java/EvenOrOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/src/main/java/EvenOrOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/target/classes/EvenOrOdd.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/target/classes/EvenOrOdd.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/target/test-classes/EvenOrOddTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../../01_01/begin/EvenOrOdd/target/test-classes/EvenOrOddTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/PasswordComplexity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/PasswordComplexity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/PasswordComplexity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="15" column="15" selection-start-line="15" selection-start-column="15" selection-end-line="15" selection-end-column="15" />
-              <folding>
-                <element signature="e#128#129#0" expanded="true" />
-                <element signature="e#155#156#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -35,6 +77,9 @@
       <replace>PasswordComplexity</replace>
     </replaceStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../../../.." />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -43,10 +88,12 @@
       </list>
     </option>
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
-        <option name="importAutomatically" value="true" />
         <option name="jdkForImporter" value="15" />
       </MavenImportingSettings>
     </option>
@@ -55,6 +102,8 @@
     <option name="width" value="1280" />
     <option name="height" value="800" />
   </component>
+  <component name="ProjectId" id="24hjPuCsI2mld4JvUtnFap4R0Xy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -106,18 +155,30 @@
       <pane id="PackagesPane" />
     </panes>
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="PasswordComplexityTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="PasswordComplexity" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PasswordComplexityTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PasswordComplexityTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -157,6 +218,17 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/test/java/PasswordComplexityTest.java">
