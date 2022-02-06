@@ -14,11 +14,7 @@ public class DoubleOrNothing {
             response = scanner.next().charAt(0);
         }
 
-        if(Character.toUpperCase(response) == 'Y'){
-            return true;
-        }
-
-        return false;
+        return Character.toUpperCase(response) == 'Y';
     }
 
     public void playGame() {
